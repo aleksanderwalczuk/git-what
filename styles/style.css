@@ -22,8 +22,8 @@ span {
 .container {
   margin: 32px auto 0;
   padding: 0 32px;
-  max-width: 960px;
+  max-width: 1180px;
 }
 .example {
-  background-color: blue;
+  background-color: red;
 }
